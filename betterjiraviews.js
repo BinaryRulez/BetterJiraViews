@@ -1,4 +1,5 @@
 //https://cdn.jsdelivr.net/gh/BinaryRulez/BetterJiraViews/betterjiraviews.js
+//https://raw.githack.com/BinaryRulez/BetterJiraViews/master/betterjiraviews.js
 
 getResource(ext_jira_base_url + "/rest/api/2/search?jql=filter=91860", function(obj) {
     txt = ""
